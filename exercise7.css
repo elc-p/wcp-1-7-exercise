@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.upper {
+  width: 100%;
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-position: bottom;
+  background-size: cover;
+}
+
+.topic {
+  margin: 0;
+  padding: 20px;
+}
+
+.contents1 {
+  margin: 0 auto;
+  padding: 50px 0 30px;
+  width: 840px;
+  border: solid black;
+  border-left-width: 0;
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 1px;
+}
+
+.contents2 {
+  margin: 0 auto;
+  padding: 30px 0 30px;
+  width: 840px;
+  border: solid black;
+  border-left-width: 0;
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 1px;
+}
+
+.contents3 {
+  margin: 0 auto;
+  padding: 30px 0 50px;
+  width: 840px;
+  border: solid black;
+  border-left-width: 0;
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 1px;
+}
+
+
+.img1 {
+  width: 180px;
+  height: 35px;
+  background-image: url(img/wc-logo.png);
+  background-size: auto;
+}
+
+.img2 {
+  width: 180px;
+  height: 35px;
+  background-image: url(img/wcp-logo.png)
+}
+
+.img3 {
+  width: 180px;
+  height: 10px;
+  background-image: url(img/wcw-logo.png)
+}
+
+.img4 {
+  width: 180px;
+  height: 10px;
+  background-image: url(img/wcc-logo.png)
+}
+
+footer {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 50px;
+}
